@@ -1,4 +1,7 @@
 /*
+ * Christopher Villarreal
+ * Module 2 Assignment 2
+ *
  * Purpose:
  *      Read and display data from "datafile.dat".
  *      The file contains sets of five integers followed by five doubles.

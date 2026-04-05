@@ -1,8 +1,11 @@
 /*
+ * Christopher Villarreal
+ * Module 2 Assignment 2
+ *
  * Purpose:
- * Generate arrays of five random integers and five random doubles,
- * then write them to "datafile.dat" using binary output.
- * If the file already exists, data will be appended.
+ *      Generates arrays of five random integers and five random doubles,
+ *      then write them to a .dat file using binary output.
+ *      If the file already exists, data will be appended.
  */
 
 import java.io.*;
