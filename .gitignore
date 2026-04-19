@@ -212,3 +212,6 @@ __marimo__/
 # IntelliJ IDEA
 .idea/
 Assignments/
+
+# Assignments
+*.docx
